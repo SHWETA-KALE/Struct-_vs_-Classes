@@ -1,0 +1,14 @@
+D:\Assignments\Classes_Vs_Structs\bin\Debug\net8.0\Classes_Vs_Structs.exe
+D:\Assignments\Classes_Vs_Structs\bin\Debug\net8.0\Classes_Vs_Structs.deps.json
+D:\Assignments\Classes_Vs_Structs\bin\Debug\net8.0\Classes_Vs_Structs.runtimeconfig.json
+D:\Assignments\Classes_Vs_Structs\bin\Debug\net8.0\Classes_Vs_Structs.dll
+D:\Assignments\Classes_Vs_Structs\bin\Debug\net8.0\Classes_Vs_Structs.pdb
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\Classes_Vs_Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\Classes_Vs_Structs.AssemblyInfoInputs.cache
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\Classes_Vs_Structs.AssemblyInfo.cs
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\Classes_Vs_Structs.csproj.CoreCompileInputs.cache
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\Classes_Vs_Structs.dll
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\refint\Classes_Vs_Structs.dll
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\Classes_Vs_Structs.pdb
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\Classes_Vs_Structs.genruntimeconfig.cache
+D:\Assignments\Classes_Vs_Structs\obj\Debug\net8.0\ref\Classes_Vs_Structs.dll
